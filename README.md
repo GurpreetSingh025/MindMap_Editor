@@ -33,7 +33,9 @@ This is a lightweight Mind Map Editor built with React 18, TypeScript, Redux Too
    git clone https://github.com/your-username/mindmap-editor.git
    cd mindmap-editor
 2. **Install dependencies**
+   ```bash
    npm install
-3. **Start application**
+4. **Start application**
+   ```bash
     npm run dev
    
